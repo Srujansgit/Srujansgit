@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋🫣, I'm Srujan</h1>
-<h3 align="center">A Budding DevOps Engineer from India</h3>
 
+Hey there, I'm super pumped to be part of the GitHub community and collaborate on open-source projects. I'm always looking to learn and grow my skills, so feel free to reach out and say konichiwa!
+- ⛺️ Based in Bengaluru, India
 - 🔭 I’m currently working on [IOS MNC](https://github.com/ios-mcn-core)
-
 - 🌱 I’m currently learning **K8s, Docker**
-
 - 📮 How to reach me **srujanedu04@gmail.com**
-
 - 🧀 **do you like cheese?**
 
 <h3 align="left">Connect with me:</h3>
