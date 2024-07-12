@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🫣, I'm Srujan</h1>
 
-Hey there, I'm super pumped to be part of the GitHub community and collaborate on open-source projects. I'm always looking to learn and grow my skills, so feel free to reach out and say konichiwa!
+so wasupp, I'm super pumped to be part of the GitHub community and collaborate on open-source projects. I'm always looking to learn and grow my skills, so feel free to reach out and say konichiwa!
 - ⛺️ Based in Bengaluru, India
 - 🔭 I’m currently working on [IOS MNC](https://github.com/ios-mcn-core)
 - 🌱 I’m currently learning **K8s, Docker**
