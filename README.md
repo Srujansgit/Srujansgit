@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋🫣, I'm Srujan</h1>
 <h3 align="center">A Budding DevOps Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src=“https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG85NHR6dnc5MXhxbWQ3NnF4MzZhbWVlZWY2eWdpMmwxOW5ncmJucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif”>
 
 - 🔭 I’m currently working on [IOS MNC](https://github.com/ios-mcn-core)
 
