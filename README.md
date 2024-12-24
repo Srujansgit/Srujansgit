@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🫣, I'm Srujan</h1>
+<h1 align="center">Hi 👋, I'm Srujan</h1>
 
 so wasupp, I'm super pumped to be part of the GitHub community and collaborate on open-source projects. I'm always looking to learn and grow my skills, so feel free to reach out and say konichiwa!
 - ⛺️ Based in Bengaluru, India
